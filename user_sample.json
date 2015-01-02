@@ -1,0 +1,13 @@
+{
+    "Facebook":{
+        "oauth_access_token": "",
+        "post_number": 10
+    },
+    "Mailer": {
+        "username": "xxxx@gmail.com",
+        "passwd": "",
+        "subject": "Facebook 每日摘要",
+        "fromaddr": "xxxx@gmail.com",
+        "toaddr": "yyyyxx@gmail.com"
+    }
+}
