@@ -1,5 +1,6 @@
 facebook-daily-mail
 ===================
+Mail the post stream, notifications and messages in the inbox by facebook api.
 
 ## Usage
 
