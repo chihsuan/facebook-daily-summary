@@ -1,6 +1,7 @@
-facebook-daily-mail
+Facebook Daily Summary
 ===================
-Mail the post stream, notifications and messages in the inbox by facebook api.
+![Email](https://raw.githubusercontent.com/chihsuan/facebook-daily-mail/master/View.png)
+
 
 ## Usage
 
